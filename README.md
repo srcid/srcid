@@ -1,12 +1,12 @@
 ### Hello there 👋
 
-![A take of Obi-wan Kenobi saying the famous hello there quote.](./assets/images/hello_there.gif)
+![A take of Obi-wan Kenobi saying the famous hello there quote.](https://github.com/srcid/srcid/blob/main/assets/images/hello_there.gif)
 
 Hello there I'm ~~general Kenobi~~... I mean, I'm Alcides aka srcid. I'm a full-stack developer who loves to code and learn.
 
 ⚡ Fun fact: I have Kenobi's arrogance.
 
-![Darth Maul saying a fun fact.](./assets/images/kenobis_arrogance.gif)
+![Darth Maul saying a fun fact.](https://github.com/srcid/srcid/blob/main/assets/images/kenobis_arrogance.gif)
 
 ### Learn with me
 
