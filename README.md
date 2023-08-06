@@ -1,42 +1,14 @@
-<style>
-  .flex-container {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-  }
-
-  .flex-container img {
-    min-width: 280px;
-  }
-
-  @media (max-width: 768px) {
-    .flex-container {
-      flex-direction: column;
-      align-items: center;
-    }
-  }
-</style>
 ### Hello there 👋
 
-<div style="margin: auto; width: 50%; min-width: 280px; max-width: 768px;">
-
 ![A take of Obi-wan Kenobi saying the famous hello there quote.](./assets/images/hello_there.gif)
-
-</div>
 
 Hello there I'm ~~general Kenobi~~... I mean, I'm Alcides aka srcid. I'm a full-stack developer who loves to code and learn.
 
 ⚡ Fun fact: I have Kenobi's arrogance.
 
-<div style="margin: auto; width: 50%; min-width: 280px; max-width: 768px;">
-
 ![Darth Maul saying a fun fact.](./assets/images/kenobis_arrogance.gif)
 
-</div>
-
 ### Learn with me
-
-Come check out my awesome blog for more tech stuff  (link)
 
 Come check out my blog for more tech stuff 👉 [here](https://www.alcides.dev.br) 👈 where I share things I've learn, see and just discovered. I also talk about random stuff and linux tips.
 
@@ -152,7 +124,7 @@ Come check out my blog for more tech stuff 👉 [here](https://www.alcides.dev.b
 
 ## ⚡ Github Stats
 
-<div class="flex-container">
+<div align="center">
   <a href="https://github.com/srcid/github-readme-stats">
     <img 
         height="165"
@@ -169,7 +141,7 @@ Come check out my blog for more tech stuff 👉 [here](https://www.alcides.dev.b
 </div>
 
 ## 🔍 Find me on
-<div style="display: flex; gap: 1rem; align-itens: left;">
+<div>
   <a href="mailto:alcides.dev.br@gmail.com">
     <img 
         height="22rem" 
