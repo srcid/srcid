@@ -122,24 +122,6 @@ Come check out my blog for more tech stuff 👉 [here](https://www.alcides.dev.b
   />
 </div>
 
-## ⚡ Github Stats
-
-<div align="center">
-  <a href="https://github.com/srcid/github-readme-stats">
-    <img 
-        height="165"
-        alt="Srcid's github stats"
-        src="https://github-readme-stats.vercel.app/api?username=srcid&show_icons=true&count_private=true&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/marcelo-rafael/github-readme-stats">
-    <img 
-        height="165"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcid&layout=compact&theme=dracula&langs_count=6" 
-     />
-  </a>
-</div>
-
 ## 🔍 Find me on
 <div>
   <a href="mailto:alcides.dev.br@gmail.com">
