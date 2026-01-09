@@ -2,12 +2,6 @@
 
 ![A take of Obi-wan Kenobi saying the famous hello there quote.](https://media.githubusercontent.com/media/srcid/srcid/main/assets/images/hello_there.gif)
 
-Hello there I'm ~~general Kenobi~~... I mean, I'm Alcides.
-
-⚡ Fun fact: I have Kenobi's arrogance.
-
-![Darth Maul saying a fun fact.](https://media.githubusercontent.com/media/srcid/srcid/main/assets/images/kenobis_arrogance.gif)
-
 ### Learn with me
 
 Come check out my blog for more tech stuff 👉 [here](https://blog.alcides.dev.br) 👈 where I share things I've learn, see and just discovered. I also talk about random stuff and linux tips.
